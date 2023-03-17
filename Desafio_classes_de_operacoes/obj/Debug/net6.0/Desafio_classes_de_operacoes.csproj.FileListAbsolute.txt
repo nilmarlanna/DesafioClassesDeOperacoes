@@ -1,0 +1,15 @@
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\bin\Debug\net6.0\Desafio_classes_de_operacoes.exe
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\bin\Debug\net6.0\Desafio_classes_de_operacoes.deps.json
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\bin\Debug\net6.0\Desafio_classes_de_operacoes.runtimeconfig.json
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\bin\Debug\net6.0\Desafio_classes_de_operacoes.dll
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\bin\Debug\net6.0\Desafio_classes_de_operacoes.pdb
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.csproj.AssemblyReference.cache
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.AssemblyInfoInputs.cache
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.AssemblyInfo.cs
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.csproj.CoreCompileInputs.cache
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.dll
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\refint\Desafio_classes_de_operacoes.dll
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.pdb
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\Desafio_classes_de_operacoes.genruntimeconfig.cache
+D:\Cursos\CursosAlura\Desafio_classes_de_operacoes\Desafio_classes_de_operacoes\obj\Debug\net6.0\ref\Desafio_classes_de_operacoes.dll

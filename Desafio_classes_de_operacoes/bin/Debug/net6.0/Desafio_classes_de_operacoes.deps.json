@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio_classes_de_operacoes/1.0.0": {
+        "runtime": {
+          "Desafio_classes_de_operacoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio_classes_de_operacoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
